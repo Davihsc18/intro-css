@@ -1,3 +1,5 @@
+# intro-css
+Material de estudo sobre o cásico de Cascading Style Sheets
 # Introdução ao CSS
 
 Neste repositório, abordamos os principais conceitos necessários para começar a estilizar páginas **HTML** e compreender como o navegador interpreta e aplica regras de estilo.
